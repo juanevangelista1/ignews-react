@@ -1,0 +1,21 @@
+{
+  "id": "a055f048-b0a5-47d9-b60e-0ab16d899c55",
+  "uid": "dicta-est-saepe",
+  "type": "Publication",
+  "data": {
+    "title": [
+      {
+        "type": "heading1",
+        "text": "Brand innovative networks",
+        "spans": []
+      }
+    ],
+    "Content": [
+      {
+        "type": "paragraph",
+        "text": "Officia commodo amet minim eiusmod deserunt ex in excepteur. Magna culpa minim cillum minim deserunt nulla quis mollit id culpa mollit mollit culpa. Elit id Lorem magna exercitation occaecat do proident.",
+        "spans": []
+      }
+    ]
+  }
+}
